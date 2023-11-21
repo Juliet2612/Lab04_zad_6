@@ -1,0 +1,6 @@
+# ninja log v5
+1	74	7222690663996446	CMakeFiles/Lab04_zad_6.dir/myfun1.c.obj	a0884249eba56d1e
+5	662	7222690669881782	CMakeFiles/Lab04_zad_6.dir/main.c.obj	c6a04ceff2f82a88
+664	729	7222690670517379	Lab04_zad_6.exe	83386f20b7ea6ceb
+2	585	7222690918624492	CMakeFiles/Lab04_zad_6.dir/main.c.obj	c6a04ceff2f82a88
+585	645	7222690919190281	Lab04_zad_6.exe	83386f20b7ea6ceb

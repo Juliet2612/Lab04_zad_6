@@ -1,0 +1,3 @@
+C:/Users/rinko/CLionProjects/Lab04.zad.6/cmake-build-debug/CMakeFiles/Lab04_zad_6.dir
+C:/Users/rinko/CLionProjects/Lab04.zad.6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rinko/CLionProjects/Lab04.zad.6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
